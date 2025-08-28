@@ -1,0 +1,5 @@
+{
+  "name": "React Polling App Scaffold",
+  "description": "A well-structured starting point for a Next.js polling application, featuring placeholders for user authentication, poll viewing, and poll creation. The UI is designed with a clean, modern aesthetic using Tailwind CSS, inspired by Shadcn components.",
+  "requestFramePermissions": []
+}
